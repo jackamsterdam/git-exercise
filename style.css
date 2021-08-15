@@ -1,0 +1,27 @@
+.header {
+    color: red;
+}
+
+.movies-container {
+    border: 1px solid black;
+    height: 100%;
+}
+
+.movie {
+    height: 225px;
+    width: 350px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 12px;
+    display: inline-block;
+}
+
+.movie-image {
+    height: 130px;
+    width: 100%;
+}
+
+.play-image {
+    border: 1px solid black;
+    height: 40px;
+}
